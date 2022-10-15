@@ -1,7 +1,7 @@
 # Theme
 ![demo](https://user-images.githubusercontent.com/45850093/195994505-bb0c2b9f-f7b5-4559-93d8-be2e3653b91c.png)
 
-This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material), currently supports GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons.
+This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material), currently supports GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Cursors.
 
 # Cursors
 ![Gruvbox](https://user-images.githubusercontent.com/45850093/195994414-e2318957-8794-40d4-93b2-b481b22ef3e7.png)
