@@ -1,6 +1,5 @@
 # Theme
-
-![](./demo.png)
+![demo](https://user-images.githubusercontent.com/45850093/195994505-bb0c2b9f-f7b5-4559-93d8-be2e3653b91c.png)
 
 This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material), currently supports GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons.
 
@@ -29,7 +28,7 @@ This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gr
 - Colors are based on [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material).
 - Cursors was created by [sainnhe](https://github.com/sainnhe/capitaine-cursors)
 - This cursor theme is originally designed by @keeferrourke.
--The new color variants of cursors are added by @sainnhe.
+- The new color variants of cursors are added by @sainnhe.
 
 ## License
 
